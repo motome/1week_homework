@@ -17,3 +17,4 @@ ieyasu = Customer(first_name="Ieyasu", family_name="Tokugawa", age=73)
 print(ieyasu.name_age())  # "Ieyasu's name and age"
 
 #以上が課題C-2
+#full_nameはここでは必要ないので削除しています
