@@ -11,3 +11,4 @@ print(ken.full_name())  # "Ken Tanaka"
 
 tom = Customer(first_name="Tom", family_name="Ford")
 print(tom.full_name())  # "Tom Ford"
+# ここまでがーc1
